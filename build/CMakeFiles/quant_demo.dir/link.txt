@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/quant_demo.dir/src/execution.cpp.o CMakeFiles/quant_demo.dir/src/main.cpp.o CMakeFiles/quant_demo.dir/src/market_data.cpp.o CMakeFiles/quant_demo.dir/src/strategy.cpp.o  -o quant_demo 
